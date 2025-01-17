@@ -1,5 +1,5 @@
 # Ça c'est moi 👀:
-Je suis un créatif passionné par les défis techniques improbables, qui adore hacker, détourner ou automatiser des systèmes pour rendre possible des idées souvent amusantes ou complètement connes, tout en y prenant un immense plaisir.<br>
+Je suis un créatif passionné par les défis techniques improbables, détourner ou automatiser des systèmes pour rendre possible des idées souvent amusantes ou complètement connes, tout en y prenant un immense plaisir.<br>
 
 https://jules-autret.dev/
 
